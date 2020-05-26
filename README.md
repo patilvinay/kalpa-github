@@ -12,6 +12,8 @@ $ kalpa install kalpa-github
 $ kalpa list
 ```
 
+## Getting started
+
 Use the playbook examples [Here](https://github.com/patilvinay/kalpa/tree/master/examples)
 
 ## Usage
