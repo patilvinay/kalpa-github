@@ -14,7 +14,7 @@ $ kalpa list
 
 ## Getting started
 
-Use the playbook examples [Here](https://github.com/patilvinay/kalpa/tree/master/examples)
+Refer docs [Here](https://www.npmjs.com/package/kalpa)
 
 ## Usage
 
