@@ -2,8 +2,6 @@
 
 # Kalpa Module for github api v3
 
-> The is kalpa module for googleapis
-
 ## Please refer kalpa documentation [Here](https://github.com/patilvinay/kalpa/blob/master/README.md) or [Here](https://www.npmjs.com/package/kalpa)
 
 ## Installation
@@ -34,7 +32,3 @@ Apache-2.0 © [Vinay Patil]()
 [daviddm-url]: https://david-dm.org/patilvinay/kalpa-github
 [coveralls-image]: https://coveralls.io/repos/patilvinay/kalpa-github/badge.svg
 [coveralls-url]: https://coveralls.io/r/patilvinay/kalpa-github
-
-```
-
-```
